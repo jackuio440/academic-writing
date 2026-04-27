@@ -58,11 +58,6 @@ It does **not** trigger for slide decks, grant proposals, blog posts, or non-aca
 
 Issues and pull requests are welcome. If you have a use case that isn't well-handled (e.g., a section convention that's missing, a discipline whose norms differ), open an issue with an example prompt and the output you'd want.
 
-## Contributors
-
-- [Jack](https://github.com/jackl) — creator and maintainer
-- [Claude](https://claude.ai) — AI collaborator (Anthropic)
-
 ## License
 
 See [LICENSE](LICENSE).
