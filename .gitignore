@@ -1,0 +1,23 @@
+# Packaged skill files (build artifacts — distribute via GitHub Releases instead)
+*.skill
+
+# Eval/test workspace from skill-creator (don't commit unless you want to)
+*-workspace/
+evals/
+iteration-*/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python (in case you ever add helper scripts)
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
