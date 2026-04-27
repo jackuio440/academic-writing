@@ -13,7 +13,7 @@ Designed to:
 
 ### Option 1: Install from the packaged `.skill` file (recommended)
 
-1. Download `academic-writing.skill` from the [Releases](../../releases) page (or build it yourself — see below).
+1. Download `academic-writing.skill` from the [Releases](https://github.com/jackuio440/academic-writing/releases) page (or build it yourself — see below).
 2. In Claude.ai, go to **Settings → Capabilities → Skills** and upload the `.skill` file.
 
 ### Option 2: Build from source
