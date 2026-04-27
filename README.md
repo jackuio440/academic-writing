@@ -47,6 +47,7 @@ Key behaviors:
 | **Voice preservation** | In revision mode, classifies each edit as Mechanical / Structural / Voice. Voice-altering edits are flagged in the Change Summary so you can revert. |
 | **Bilingual handling** | Distinguishes conversation language from manuscript language; supports workflows like "discuss in Chinese, output English abstract." |
 | **Editor's note discipline** | Only flags significant decisions (restructuring, scope-cutting, claim-softening, journal assumptions) — not routine style choices. |
+| **User-provided guidelines** | When you name a target journal or reporting standard (CONSORT, PRISMA, etc.), the skill asks you to paste the author guidelines or checklist. It applies them exactly rather than guessing from memory, since requirements vary by journal and change over time. |
 
 ## When the skill triggers
 
