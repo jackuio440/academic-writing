@@ -21,7 +21,7 @@ Designed to:
 Clone this repo and package it yourself using Anthropic's `skill-creator`:
 
 ```bash
-git clone https://github.com/<your-username>/academic-writing.git
+git clone https://github.com/jackuio440/academic-writing.git
 cd academic-writing
 # Then use skill-creator's package_skill.py to produce a .skill file
 ```
