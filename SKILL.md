@@ -168,9 +168,9 @@ For revision mode, append a **Change Summary** (≤6 lines) listing structural a
 
 ## Reference files
 
-| File | Read when |
-|------|-----------|
-| `references/reporting-guidelines.md` | User mentions CONSORT, TRIPOD, STROBE, PRISMA, or asks about reporting standards |
-| `references/journal-styles.md` | User names a specific journal and asks for formatting guidance |
+When the user mentions a specific journal or reporting guideline, ask them to provide the relevant document before proceeding:
 
-Read these only when directly needed — do not preload.
+- **Reporting guideline** (CONSORT, PRISMA, STROBE, TRIPOD, etc.): Ask the user to paste the checklist or upload the guideline PDF. Use it to verify the manuscript covers all required items.
+- **Target journal style**: Ask the user to paste the journal's author guidelines (word limits, section structure, citation style, abstract format). Apply them exactly as specified.
+
+Do not guess journal-specific requirements from memory — they change frequently and vary by submission type. If the user cannot provide the guidelines, apply the discipline default from Step 4 and note the assumption in an Editor's note.
